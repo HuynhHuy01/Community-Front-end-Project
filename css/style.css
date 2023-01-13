@@ -1,0 +1,30 @@
+body {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+}
+section {
+    text-align: center;
+    margin: 2em 0 3em;
+}
+
+.heading {
+    width: 480px;
+    margin: auto;
+}
+
+.heading h3 {
+    font-weight: 500;
+    font-size: 18px;
+    color: #217BF4;
+}
+
+.heading h1 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #0A093D;
+}
+
+.heading p  {
+    color: #656464;
+}
